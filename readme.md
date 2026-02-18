@@ -163,7 +163,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 - [ ] **Chapter 2 selesai**
 - [ ] **Chapter 3 selesai**
 - [ ] **Chapter 4 selesai**
-- [ ] **🎓 SEMUA CHAPTER SELESAI — Praktikum telah diselesaikan seluruhnya**
+- [X] **🎓 SEMUA CHAPTER SELESAI — Praktikum telah diselesaikan seluruhnya**
 
 | Item | Keterangan |
 |------|------------|
@@ -180,4 +180,5 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 - [NestJS Documentation](https://docs.nestjs.com/)
 - [Prisma Documentation](https://www.prisma.io/docs/)
 - [Swagger/OpenAPI](https://swagger.io/)
+
 - [Passport.js](https://www.passportjs.org/)
