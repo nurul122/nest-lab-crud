@@ -163,15 +163,15 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 - [ ] **Chapter 2 selesai**
 - [ ] **Chapter 3 selesai**
 - [ ] **Chapter 4 selesai**
-- [ ] **🎓 SEMUA CHAPTER SELESAI — Praktikum telah diselesaikan seluruhnya**
+- [X] **🎓 SEMUA CHAPTER SELESAI — Praktikum telah diselesaikan seluruhnya**
 
 | Item | Keterangan |
 |------|------------|
-| Nama | _________________________ |
-| NIM | _________________________ |
-| Tanggal Mulai | _________________________ |
-| Tanggal Selesai | _________________________ |
-| Tanda Tangan | _________________________ |
+| Nama | Nurul Habibah |
+| NIM | 105841108922 |
+| Tanggal Mulai | 15/02/2026 |
+| Tanggal Selesai | 18/02/2026 |
+| Tanda Tangan | Nurul |
 
 ---
 
