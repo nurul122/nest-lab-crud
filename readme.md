@@ -167,11 +167,11 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 | Item | Keterangan |
 |------|------------|
-| Nama | _________________________ |
-| NIM | _________________________ |
-| Tanggal Mulai | _________________________ |
-| Tanggal Selesai | _________________________ |
-| Tanda Tangan | _________________________ |
+| Nama | Nurul Habibah |
+| NIM | 105841108922 |
+| Tanggal Mulai | 15/02/2026|
+| Tanggal Selesai | 18/02/2026 |
+| Tanda Tangan | Nurul |
 
 ---
 
